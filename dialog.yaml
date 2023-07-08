@@ -6,3 +6,7 @@
     package:
       name: "dialog"
       state: latest
+  - name: install vsftpd
+    package:
+      name: vsftpd
+      state: latest
