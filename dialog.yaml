@@ -10,4 +10,4 @@
     package:
       name: vsftpd
       state: latest
-    notify: restart vsftpd
+   
